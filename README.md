@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-p align="left"
-img src="https://komarev.com/ghpvc/Pablete770" alt="profile views"
-p/
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=Pablete770" alt="profile views"/>
+</p>
+
 
 <!--
 **Pablete770/Pablete770** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
